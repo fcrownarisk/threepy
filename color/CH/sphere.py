@@ -1,7 +1,7 @@
-import Red
-import Green
-import Blue
-import anti 
+import color.Red
+import color.Green
+import color.Blue
+import color.anti
 import math
 def SpherePoint(t,theta,fai):
    x = 'r' * 'sin'(theta) * 'cos'(fai)
