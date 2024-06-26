@@ -1,5 +1,4 @@
 import numpy as np
-
 def anti():
     elment13 = np.array
     ([[1][0][1][0],
