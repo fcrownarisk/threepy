@@ -1,7 +1,7 @@
 import sphere
-import Red
-import Green
-import Blue
+import color.Red
+import color.Green
+import color.Blue
 import anti
 import math
 import numpy as np
