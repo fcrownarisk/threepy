@@ -1,9 +1,9 @@
 import Alkene
 import Hydroncarbon
-import methines
+import Methines
 def new():
     '*'
 def __yield__():
     yield new *Alkene
     yield new *Hydroncarbon
-    yield new *methines
+    yield new *Methines
