@@ -10,8 +10,8 @@ def Cartesian():
   r = Length
   vertices = [
     Red(0,0,1),  
-    Blue(math.cos(-1/3), 0, 0), 
-    Green(0, -math.cos(-1/3),0), 
-    anti(0,0,math.cos(-1/3)), 
+    Blue(math.arccos(-1/3), 0, 0), 
+    Green(0, -math.arccos(-1/3),0), 
+    anti(0,0,math.arccos(-1/3)), 
   ]
   
