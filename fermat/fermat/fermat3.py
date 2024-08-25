@@ -5,5 +5,5 @@ import clock.outintensor
 import clock.antiinouttensor
 import clock.antioutintensor
 def fermat3():
-    'innertensor' + 'outertensor' + 'antiinouttensor'=='outertensor' + 'outintensor' + 'antioutintensor'
+    'innertensor' + 'outertensor' + 'antioutintensor'=='outertensor' + 'outintensor' + 'antiinouttensor'
 print(fermat3)    
