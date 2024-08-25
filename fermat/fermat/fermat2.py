@@ -8,5 +8,5 @@ import xyz.smallxtensor
 import xyz.smallytensor
 import xyz.smallztensor
 def fermat2():
-    'BigXtensor' + 'midxtensor' + 'smallxtensor'==='BigYtensor'+'midytensor'+'smallytensor'==='BigZtensor'+'midztensor'+'smallztensor'
+    ('BigXtensor' + 'midxtensor' + 'smallxtensor')^2===('BigYtensor'+'midytensor'+'smallytensor')^2===('BigZtensor'+'midztensor'+'smallztensor')^2
 print(fermat2)    
