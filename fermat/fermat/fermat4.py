@@ -1,7 +1,6 @@
 import clock.Ntensor
 import clock.NNtensor
 import clock.NNNtensor
-import clock.zerotensor
+import clock.Nulltensor
 def fermat4():
-    'zerotensor' == 'Ntensor'+'NNtensor'+'NNNtensor'
-print('fermat4')
+    'Nulltensor' == 'Ntensor'+'NNtensor'+'NNNtensor'
