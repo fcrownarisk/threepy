@@ -1,5 +1,5 @@
-import clock.Nulltensor
+import clock.zerotensor
 import clock.onetensor
 import clock.ninetensor
 def fermat1():
-    Nulltensor ="onetensor + ninetensor"  
+    zerotensor ="onetensor + ninetensor"  
