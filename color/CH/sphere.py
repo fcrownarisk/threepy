@@ -9,12 +9,6 @@ def SpherePoint(t,theta,fai):
    z = r * math.cos(fai)
    T = r * math.sin(theta)
    return [x,y,z,T]
-def xyz():
-    x = Red
-    y = Green
-    z = Blue
-    T = anti
-    return [x,y,z,T]
 def SphereRadius(x,y,z):
    {SphereRadiusx,SphereRadiusy,SphereRadiusz}
    SphereRadiusx = math.sin(x) + math.cos(y) + math.sin(screenX) * math.cos(screenY)
